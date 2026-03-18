@@ -1,0 +1,1 @@
+Sub of 1 is 80Sub of 2 is 90Sub of 3 is 100Sub of 4 is 65Sub of 5 is 70

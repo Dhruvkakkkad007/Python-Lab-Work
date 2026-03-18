@@ -1,0 +1,27 @@
+Number of lines: 2
+Number of words: 2
+Number of characters: 13
+
+
+def calculate_average(marks):
+    return sum(marks) / len(marks)
+
+with open("input.txt", "r") as file:
+    students = file.readlines()
+
+with open("output.txt", "w") as out:
+    out.write("RollNo  Name  Marks  Average\n")
+
+    for student in students:
+        data = student.split()
+
+        roll_no = data[0]
+        name = data[1]
+
+        marks = list(map(int, data[2:]))
+
+        avg = calculate_average(marks)
+
+        out.write(f"{roll_no}  {name}  {marks}  {avg:.2f}\n")
+
+print("Student details and average written to output.txt")
