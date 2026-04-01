@@ -1,0 +1,10 @@
+Roll No: 101, Name: Amit, Marks: 78, Average: 78.0
+Roll No: 102, Name: Priya, Marks: 85, Average: 85.0
+Roll No: 103, Name: Rahul, Marks: 67, Average: 67.0
+Roll No: 104, Name: Neha, Marks: 92, Average: 92.0
+Roll No: 105, Name: Karan, Marks: 74, Average: 74.0
+Roll No: 106, Name: Sneha, Marks: 88, Average: 88.0
+Roll No: 107, Name: Arjun, Marks: 69, Average: 69.0
+Roll No: 108, Name: Pooja, Marks: 81, Average: 81.0
+Roll No: 109, Name: Rohan, Marks: 76, Average: 76.0
+Roll No: 110, Name: Kavya, Marks: 90, Average: 90.0

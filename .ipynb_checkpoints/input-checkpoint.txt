@@ -1,1 +1,10 @@
-101,'Dhruv',80,90,70,85
+101 Amit 78
+102 Priya 85
+103 Rahul 67
+104 Neha 92
+105 Karan 74
+106 Sneha 88
+107 Arjun 69
+108 Pooja 81
+109 Rohan 76
+110 Kavya 90
